@@ -1,2 +1,13 @@
 # adsclear-site
-Official website for AdsClear Agency — a TikTok advertising management service helping agencies and businesses run optimized TikTok ad campaigns.
+AdsClear Agency Website
+
+Official website for AdsClear Agency.
+
+This site explains:
+• TikTok advertising campaign services
+• Pricing tiers
+• Estimated ad performance
+• Frequently asked questions
+
+Contact:
+clearadsagency@proton.me
