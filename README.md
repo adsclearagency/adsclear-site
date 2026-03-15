@@ -1,5 +1,4 @@
-# adsclear-site
-AdsClear Agency Website
+# AdsClear Agency Website
 
 Official website for AdsClear Agency.
 
